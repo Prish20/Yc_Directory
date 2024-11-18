@@ -7,14 +7,12 @@
     <list default="true" id="4c326b8b-209d-4805-b57a-333023dc971a" name="Changes" comment="Install and setup Sanity">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/(root)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/StartupCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/StartupCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sanity.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sanity.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sanity/lib/image.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sanity/schemaTypes/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sanity/schemaTypes/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sanity/structure.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sanity/structure.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sanity/lib/client.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sanity/lib/client.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sanity/lib/live.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sanity/lib/live.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sanity/lib/queries.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sanity/lib/queries.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript JSX File" />
         <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
       </list>
     </option>
   </component>
@@ -69,6 +67,9 @@
     &quot;accountId&quot;: &quot;8e9eb7c3-120a-4452-b550-00fe5c7cbd89&quot;
   }
 }</component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -134,7 +135,7 @@
       <workItem from="1731676204208" duration="759000" />
       <workItem from="1731677325653" duration="27648000" />
       <workItem from="1731821400894" duration="6736000" />
-      <workItem from="1731853063931" duration="3606000" />
+      <workItem from="1731853063931" duration="16864000" />
     </task>
     <servers />
   </component>
