@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c326b8b-209d-4805-b57a-333023dc971a" name="Changes" comment="Complete create startup form functionality and connect to sanity">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="4c326b8b-209d-4805-b57a-333023dc971a" name="Changes" comment="Set up sentry for monitoring application">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/StartupCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/StartupCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sanity/lib/queries.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sanity/lib/queries.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript JSX File" />
         <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
       </list>
     </option>
   </component>
@@ -139,7 +137,7 @@
       <workItem from="1731853063931" duration="29877000" />
       <workItem from="1731942630461" duration="2494000" />
       <workItem from="1731995949154" duration="1292000" />
-      <workItem from="1731999159189" duration="22892000" />
+      <workItem from="1731999159189" duration="27777000" />
     </task>
     <task id="LOCAL-00001" summary="Implement fetching post details from sanity using nextjs ppr startegy">
       <option name="closed" value="true" />
@@ -189,7 +187,31 @@
       <option name="project" value="LOCAL" />
       <updated>1732018584885</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Set up sentry for monitoring application">
+      <option name="closed" value="true" />
+      <created>1732022791785</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732022791785</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Set up sentry for monitoring application">
+      <option name="closed" value="true" />
+      <created>1732022819847</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732022819847</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Set up sentry for monitoring application">
+      <option name="closed" value="true" />
+      <created>1732022824428</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732022824428</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,17 +224,7 @@
     <MESSAGE value="Implement author authentication" />
     <MESSAGE value="Complete create startup form UI with formvalidation using ZOD and react 19 formAction" />
     <MESSAGE value="Complete create startup form functionality and connect to sanity" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete create startup form functionality and connect to sanity" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/sanity/lib/queries.ts</url>
-          <line>17</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Set up sentry for monitoring application" />
+    <option name="LAST_COMMIT_MESSAGE" value="Set up sentry for monitoring application" />
   </component>
 </project>
