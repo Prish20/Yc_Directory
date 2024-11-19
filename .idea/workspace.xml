@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c326b8b-209d-4805-b57a-333023dc971a" name="Changes" comment="Complete create startup form UI with formvalidation using ZOD and react 19 formAction">
+    <list default="true" id="4c326b8b-209d-4805-b57a-333023dc971a" name="Changes" comment="Complete create startup form functionality and connect to sanity">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Navbar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/StartupForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/StartupForm.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -140,7 +139,7 @@
       <workItem from="1731853063931" duration="29877000" />
       <workItem from="1731942630461" duration="2494000" />
       <workItem from="1731995949154" duration="1292000" />
-      <workItem from="1731999159189" duration="19344000" />
+      <workItem from="1731999159189" duration="22892000" />
     </task>
     <task id="LOCAL-00001" summary="Implement fetching post details from sanity using nextjs ppr startegy">
       <option name="closed" value="true" />
@@ -182,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732009961022</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Complete create startup form functionality and connect to sanity">
+      <option name="closed" value="true" />
+      <created>1732018584885</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732018584885</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,7 +201,8 @@
     <MESSAGE value="Implement implement updating views using PPR" />
     <MESSAGE value="Implement author authentication" />
     <MESSAGE value="Complete create startup form UI with formvalidation using ZOD and react 19 formAction" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete create startup form UI with formvalidation using ZOD and react 19 formAction" />
+    <MESSAGE value="Complete create startup form functionality and connect to sanity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete create startup form functionality and connect to sanity" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
