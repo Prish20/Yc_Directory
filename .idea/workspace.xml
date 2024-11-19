@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c326b8b-209d-4805-b57a-333023dc971a" name="Changes" comment="Complete the mobile navigation">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(root)/startup/[id]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/startup/[id]/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sanity/extract.json" beforeDir="false" afterPath="$PROJECT_DIR$/sanity/extract.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sanity/lib/queries.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sanity/lib/queries.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sanity/schemaTypes/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sanity/schemaTypes/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sanity/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sanity/types.ts" afterDir="false" />
-    </list>
+    <list default="true" id="4c326b8b-209d-4805-b57a-333023dc971a" name="Changes" comment="Complete the EDitor picks" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +133,7 @@
       <workItem from="1731853063931" duration="29877000" />
       <workItem from="1731942630461" duration="2494000" />
       <workItem from="1731995949154" duration="1292000" />
-      <workItem from="1731999159189" duration="32261000" />
+      <workItem from="1731999159189" duration="32822000" />
     </task>
     <task id="LOCAL-00001" summary="Implement fetching post details from sanity using nextjs ppr startegy">
       <option name="closed" value="true" />
@@ -230,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732029094492</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Complete the EDitor picks">
+      <option name="closed" value="true" />
+      <created>1732032258346</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1732032258346</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,6 +247,7 @@
     <MESSAGE value="Set up sentry for monitoring application" />
     <MESSAGE value="Complete the user profile page" />
     <MESSAGE value="Complete the mobile navigation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete the mobile navigation" />
+    <MESSAGE value="Complete the EDitor picks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete the EDitor picks" />
   </component>
 </project>
